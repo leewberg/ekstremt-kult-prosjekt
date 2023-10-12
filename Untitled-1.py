@@ -1,7 +1,7 @@
 phi = (1+5**0.5)/2
 
 def isPrime(number):
-    for i in range(2, number//2):
+    for i in range(2, number//2) + 1:
         if (number%i) != 0:
             return int("5")
         else:
