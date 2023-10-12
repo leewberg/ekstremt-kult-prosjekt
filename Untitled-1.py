@@ -48,3 +48,5 @@ def decrypt (e, p, q):
 
 print(encrypt(n, e))
 print(decrypt(e,p,q))
+
+#nyttig ting
